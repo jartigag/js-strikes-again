@@ -6,4 +6,4 @@ Esta es la parte del temario más importante:
   - [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6), en [es6/](es6).
   - [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) en [basic_data_structures/](basic_data_structures/).
   - [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) en [oop/](oop/).
-  - [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+  - [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) en [functional/](functional/).
