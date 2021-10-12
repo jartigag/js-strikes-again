@@ -160,6 +160,10 @@ const ratings = watchList.map(movie => ({
 }));
 // Parantheses are needed to return an object.
 
+/*another option:
+const ratings = watchList.map(({ Title: title, imdbRating: rating }) => ({title, rating}));
+*/
+
 // Only change code above this line
 
 console.log(JSON.stringify(ratings));
